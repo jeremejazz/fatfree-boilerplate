@@ -1,0 +1,1 @@
+/*Author global script*/

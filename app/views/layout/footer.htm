@@ -1,0 +1,21 @@
+      <hr class="hidden-print">
+
+      <footer class="hidden-print">
+        <p>&copy; {{@site}} {{ date('Y') }}</p>
+      </footer>
+    </div> <!-- /container -->  <script src="assets/bower_components/jquery/dist/jquery.min.js"> </script>
+
+        <script src="assets/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+        <script src="assets/js/main.js"></script>
+        
+        <check if="{{is_array(@addscripts)}}">
+            <true>
+                <repeat group="{{@addscripts}}" value="{{@script}}">
+                    <script src="{{@ASSETS . @script}}"></script>
+                </repeat>
+            </true>
+        </check>
+ 
+    </body>
+</html>

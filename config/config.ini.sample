@@ -1,0 +1,13 @@
+[globals]
+
+DEBUG=2
+
+
+;db_dns=mysql:host=localhost;port=3306;dbname=
+;db_name=DATABASE_NAME
+;db_user=MYSQL_USERNAME
+;db_pass=MYSQL_PASSWORD
+
+UI=app/views/
+site="[Your Site Name] Fat Free Boilerplate"
+

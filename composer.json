@@ -1,0 +1,15 @@
+{
+    "name": "jereme/19-east-app",
+    "description": "Just a backend scraper",
+    "authors": [
+        {
+            "name": "jeremejazz",
+            "email": "jeremejazz15@yahoo.com"
+        }
+    ],
+     "require": {
+        "symfony/dom-crawler": "^3.0",
+        "symfony/css-selector": "^3.0",
+        "bcosca/fatfree-core": "^3.5"
+    } 
+}
