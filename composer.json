@@ -8,8 +8,6 @@
         }
     ],
      "require": {
-        "symfony/dom-crawler": "^3.0",
-        "symfony/css-selector": "^3.0",
         "bcosca/fatfree-core": "^3.5"
     } 
 }
