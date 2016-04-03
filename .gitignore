@@ -4,3 +4,4 @@ composer.lock
 
 /config/config.ini
 /assets/bower_components/
+/uploads
