@@ -3,8 +3,7 @@
     "description": "Just a backend scraper",
     "authors": [
         {
-            "name": "jeremejazz",
-            "email": "jeremejazz15@yahoo.com"
+            "name": "jeremejazz"
         }
     ],
      "require": {
