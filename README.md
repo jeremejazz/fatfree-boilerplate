@@ -1,19 +1,19 @@
 # Fat-free boilerplate
 
-Lightweight Skeleton PHP Fatfree-framework MVC website codebase.
+Boilerplate using MVC pattern for Fat Free Framework
 
+To install: 
+1. Download or clone this repository
+2. Install componer and bower (citation TBA)
+3. Run composer and bower install to get dependencies: 
 
-This was created for personal use especially for starting new small projects. But you can also use this.
+ 	composer install 
 
-To install
-
-1. Install componer and bower
-2. Enter composer install and bower install  
+ 	bower install  
 
 
 
 TODO: 
 
-Minification of client side codes
-Tutorial on how to make simple crud
+Find best implementation for routing such as pattern, and hiding the main controller classes
 
