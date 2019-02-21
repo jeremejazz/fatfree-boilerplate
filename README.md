@@ -1,19 +1,19 @@
 # Fat-free boilerplate
 
-Boilerplate using MVC pattern for Fat Free Framework
+*This project has been inactive for years. Some features need to be updated such as fatfree version(though composer takes care of it), Bootstrap, and [migrating away from bower](https://bower.io/blog/2017/how-to-migrate-away-from-bower/). Feel free to fork or clone new project to update this*
 
-To install: 
+This boilerplate is using MVC pattern for Fat Free Framework
+
+### To install: 
 1. Download or clone this repository
-2. Install componer and bower (citation TBA)
-3. Run composer and bower install to get dependencies: 
+2. Install [composer](https://getcomposer.org/) and [bower](https://bower.io)
+3. Run 
 
- 	composer install 
-
- 	bower install  
-
-
-
-TODO: 
-
-Find best implementation for routing such as pattern, and hiding the main controller classes
-
+```bash
+composer install 
+```
+ 
+```bash
+bower install  
+```
+ 
